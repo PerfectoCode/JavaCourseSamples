@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+-<hierarchy>
+
+
+-<android.widget.FrameLayout instance="0" content-desc="" text="" resource-id="" password="false" index="0" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.FrameLayout" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,0][1440,2392]">
+
+
+-<android.view.ViewGroup instance="0" content-desc="" text="" resource-id="android:id/decor_content_parent" password="false" index="0" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.view.ViewGroup" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,0][1440,2392]">
+
+
+-<android.widget.FrameLayout instance="1" content-desc="" text="" resource-id="android:id/action_bar_container" password="false" index="0" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.FrameLayout" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,84][1440,252]">
+
+
+	-<android.view.ViewGroup instance="1" content-desc="" text="" resource-id="android:id/action_bar" password="false" index="0" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.view.ViewGroup" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,84][1440,252]">
+
+
+		-<android.widget.LinearLayout instance="0" content-desc="" text="" resource-id="" password="false" index="0" selected="false" enabled="false" clickable="true" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.LinearLayout" checkable="false" focusable="false" package="com.example.testapp" bounds="[29,84][269,252]">
+
+
+			-<android.widget.FrameLayout instance="2" content-desc="" text="" resource-id="" password="false" index="0" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.FrameLayout" checkable="false" focusable="false" package="com.example.testapp" bounds="[29,84][269,252]">
+
+				<android.widget.ImageView instance="0" content-desc="" text="" resource-id="android:id/home" password="false" index="0" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.ImageView" checkable="false" focusable="false" package="com.example.testapp" bounds="[43,112][255,224]"/>
+
+				</android.widget.FrameLayout>
+
+			</android.widget.LinearLayout>
+
+		</android.view.ViewGroup>
+
+	</android.widget.FrameLayout>
+
+
+-<android.widget.FrameLayout instance="3" content-desc="" text="" resource-id="android:id/content" password="false" index="1" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.FrameLayout" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,252][1440,2392]">
+
+
+	-<android.widget.LinearLayout instance="1" content-desc="" text="" resource-id="" password="false" index="0" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.LinearLayout" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,252][1440,2392]">
+
+		<android.widget.TextView instance="0" content-desc="" text="" resource-id="com.example.testapp:id/textView1" password="false" index="0" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.TextView" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,252][399,318]"/>
+
+		<android.widget.TextView instance="1" content-desc="" text=" Welcome back john!" resource-id="com.example.testapp:id/tv1" password="false" index="1" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.TextView" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,318][475,384]"/>
+
+		<android.widget.ImageView instance="1" content-desc="" text="" resource-id="com.example.testapp:id/imageView1" password="false" index="2" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.ImageView" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,384][400,784]"/>
+
+
+		-<android.widget.LinearLayout instance="2" content-desc="" text="" resource-id="" password="false" index="3" selected="false" enabled="true" clickable="false" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.LinearLayout" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,784][1440,1018]">
+
+			<android.widget.TextView instance="2" content-desc="" text="Terms Of Use" resource-id="com.example.testapp:id/terms" password="false" index="0" selected="false" enabled="true" clickable="true" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.TextView" checkable="false" focusable="false" package="com.example.testapp" bounds="[0,784][471,850]"/>
+
+			<android.widget.Button instance="0" content-desc="" text="Continue" resource-id="com.example.testapp:id/button1" password="false" index="1" selected="false" enabled="true" clickable="true" focused="false" checked="false" long-clickable="false" scrollable="false" class="android.widget.Button" checkable="false" focusable="true" package="com.example.testapp" bounds="[53,850][1387,1018]"/>
+
+			</android.widget.LinearLayout>
+
+		</android.widget.LinearLayout>
+
+	</android.widget.FrameLayout>
+
+</android.view.ViewGroup>
+
+</android.widget.FrameLayout>
+
+</hierarchy>
